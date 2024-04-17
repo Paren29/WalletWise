@@ -1,0 +1,8 @@
+secrets.txt
+venv/
+to_process/
+test_files/
+__pycache__/
+Financial Records/
+GitHub_API/
+processed_files/
